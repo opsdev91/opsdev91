@@ -27,7 +27,7 @@ I'm a DevOps Engineer and Cloud Architect with 8+ years of experience in both ba
 🔨 Some of the projects I've worked on include:
 - 🌐 Multi-site network design using Palo Alto hardware and virtualization software (Proxmox)
 - 🚀 End-to-end on-premises K3S cluster on Proxmox server provisioning with Terraform
-- 🎥 K8S cluster on AWS infrastructure for WebRTC/Mediasoup live streaming application
+- 🎥 WebRTC/Mediasoup live streaming application on EKS cluster and GKE cluster
 - 🔧 Jenkins master-slave cluster on Kubernetes infrastructure
 - 📈 Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
 - 🤖 Ansible Semaphore server to host and run Ansible playbooks deployment
