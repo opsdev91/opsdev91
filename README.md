@@ -2,10 +2,11 @@
 
 ☢️ DevOps Engineer | ☁️ Cloud Architect
 
-Throughout 8+ years working on both bare-metal/virtualization infrastructure and public cloud providers (AWS, Google Cloud, Digital Ocean....), I'm familiar and proficient with most of the modern DevOps tools outlined here: **myup.work/quangnx-devops**
+Throughout 8+ years working on both bare-metal/virtualization infrastructure and public cloud providers (AWS, Google Cloud, Digital Ocean....), I'm familiar and proficient with most of the modern DevOps tools outlined here: [myup.work/quangnx-devops](myup.work/quangnx-devops)
 
 Awarded Certified Kubernetes Administrator badge by Cloud Native Computing Foundation [cncf.io](https://cncf.io), I demonstrate proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting of Kubernetes clusters.
-🎖️ [ myup.work/quangnx-cka ] ■ Certified Kubernetes Administrator (CKA)
+
+🎖️ [myup.work/quangnx-cka](myup.work/quangnx-cka) ■ Certified Kubernetes Administrator (CKA)
 
 Here are a few ideas I believe I can add value as a DevOps Engineer:
 - ■ Optimizing test automation, trunk-based development, and working in small batches
@@ -24,7 +25,7 @@ Here are a few ideas I believe I can add value as a DevOps Engineer:
 - ➡️ Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
 - ➡️ End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
 
-- 📫 Hire me; **myup.work/quangnx-devops**
+- 📫 Hire me; [myup.work/quangnx-devops](myup.work/quangnx-devops)
 - 💬 Ask me about;
 
   [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
