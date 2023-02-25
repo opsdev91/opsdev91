@@ -8,11 +8,11 @@ Awarded Certified Kubernetes Administrator badge by Cloud Native Computing Found
 🎖️ [ myup.work/quangnx-cka ] ■ Certified Kubernetes Administrator (CKA)
 
 Here are a few ideas I believe I can add value as a DevOps Engineer:
-■ Optimizing test automation, trunk-based development, and working in small batches
-■ Consciously tracking and reporting on change failure rates 
-■ Implementing an automated deployment pipeline that incorporates automated testing and feedback mechanisms
-■ Continuously monitoring system health and alerting operations staff in the event of a failure
-■ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
+- ■ Optimizing test automation, trunk-based development, and working in small batches
+- ■ Consciously tracking and reporting on change failure rates 
+- ■ Implementing an automated deployment pipeline that incorporates automated testing and feedback mechanisms
+- ■ Continuously monitoring system health and alerting operations staff in the event of a failure
+- ■ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
 
 ⚫ What I Have Done
 ➡️ Solutions
