@@ -15,7 +15,7 @@ I'm a DevOps Engineer and Cloud Architect with 8+ years of experience in both ba
 - 🔧 Ansible, Terraform, Jenkins
 - 📈 Elastic Stack, Grafana, Prometheus
 - 🌐 NGINX, Apache, HAProxy, Varnish
-- 🕸️ Node.js, React, Vue.js
+- 🕸️ Node.js, Nest.js, Typescript
 
 🚀 Here are a few areas where I believe I can add value as a DevOps Engineer:
 - 🤖 Automating software delivery pipelines and infrastructure management
