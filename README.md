@@ -34,7 +34,7 @@ I'm a DevOps Engineer and Cloud Architect with 8+ years of experience in both ba
 - 💾 Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
 - 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
 
-📫 Feel free to reach out to me at [myup.work/quangnx-devops](myup.work/quangnx-devops) if you'd like to chat about my skills and experience or to discuss potential opportunities.
+📫 Feel free to reach out to me at [myup.work/quangnx](myup.work/quangnx) if you'd like to chat about my skills and experience or to discuss potential opportunities.
 - 💬 You can also ask me about:
 
   [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
