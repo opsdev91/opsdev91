@@ -25,11 +25,14 @@ I'm a DevOps Engineer and Cloud Architect with 8+ years of experience in both ba
 - 🏭 Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
 
 🔨 Some of the projects I've worked on include:
-- 🚀 Deploying a K8S cluster on AWS infrastructure for a WebRTC/Mediasoup live streaming application
-- 📈 Implementing Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
-- 🌐 Building an end-to-end CI/CD pipeline with Github action, Vcluster, AWS ECR/EKS, and ArgoCD
-- 🤖 Developing an Ansible Semaphore server to host and run Ansible playbooks deployment
-- 💻 Designing multi-site networks using Palo Alto hardware and virtualization software (Proxmox)
+- 🌐 Multi-site network design using Palo Alto hardware and virtualization software (Proxmox)
+- 🚀 End-to-end on-premises K3S cluster on Proxmox server provisioning with Terraform
+- 🎥 K8S cluster on AWS infrastructure for WebRTC/Mediasoup live streaming application
+- 🔧 Jenkins master-slave cluster on Kubernetes infrastructure
+- 📈 Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
+- 🤖 Ansible Semaphore server to host and run Ansible playbooks deployment
+- 💾 Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
+- 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
 
 📫 Feel free to reach out to me at [myup.work/quangnx-devops](myup.work/quangnx-devops) if you'd like to chat about my skills and experience or to discuss potential opportunities.
 - 💬 You can also ask me about:
