@@ -33,6 +33,7 @@ I'm a DevOps Engineer and Cloud Architect with 8+ years of experience in both ba
 - 🤖 Ansible Semaphore server to host and run Ansible playbooks deployment
 - 💾 Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
 - 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
+- 🏭 AWS-based event-driven autoscaling solution, leveraging K8S' HPA and EKS, to scale Selenium browser nodes based on the number of requests in the session queue
 
 📫 Feel free to reach out to me at [myup.work/quangnx](myup.work/quangnx) if you'd like to chat about my skills and experience or to discuss potential opportunities.
 - 💬 You can also ask me about:
